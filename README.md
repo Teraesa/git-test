@@ -1,3 +1,4 @@
-# hello, world 
+# Test Repo
 
-My name is Teraesa
+[our js file](hello.js)
+
